@@ -1,0 +1,34 @@
+[02-Aug-2014 09:18:00 Europe/Berlin] PHP Notice: A feed could not be found at http://feeds2.feedburner.com/hotarucms. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in C:\xampp\htdocs\Hot\libs\extensions\SimplePie\simplepie.inc on line 1531
+[02-Aug-2014 09:42:17 Europe/Berlin] PHP Notice: A feed could not be found at http://feeds2.feedburner.com/hotarucms. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in C:\xampp\htdocs\Hot\libs\extensions\SimplePie\simplepie.inc on line 1531
+[02-Aug-2014 09:44:04 Europe/Berlin] PHP Notice: A feed could not be found at http://feeds2.feedburner.com/hotarucms. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed. in C:\xampp\htdocs\Hot\libs\extensions\SimplePie\simplepie.inc on line 1531
+[24-Jan-2015 09:19:26 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 09:19:30 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 10:43:54 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 10:43:57 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 10:43:59 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 10:46:26 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 10:46:32 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 10:50:44 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[28-Jan-2015 10:15:31 UTC] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/mihancli/public_html/modir/t_reset_rebuild.php on line 15
+[24-Jan-2015 09:23:04 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 10:43:03 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 10:43:06 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 10:43:09 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 10:43:11 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 10:43:13 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 10:43:15 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[28-Jan-2015 10:15:31 UTC] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/mihancli/public_html/modir/t_reset_rebuild.php on line 15
+[28-Jan-2015 10:15:31 UTC] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/mihancli/public_html/modir/t_reset_rebuild.php on line 15
+[24-Jan-2015 09:23:04 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 10:43:03 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 10:43:06 UTC] PHP Parse error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 10:43:09 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 10:43:11 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 10:43:13 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[24-Jan-2015 10:43:15 UTC] PHP Fatal error:  set_magic_quotes_runtime(): magic_quotes_runtime is not supported anymore in Unknown on line 0
+[18-Apr-2014 20:11:34 Europe/Berlin] PHP Warning:  file_get_contents(http://www.myappera.com/pluginDirectory/compiler.php?method=userOff&internalID=air.com.doitflash.FreshApp): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found in C:\xampp\htdocs\android\fcms\amfphp\Services\AccessCheck.php on line 312
+[18-Apr-2014 20:14:07 Europe/Berlin] PHP Warning:  file_get_contents(http://www.myappera.com/pluginDirectory/compiler.php?method=userOff&internalID=air.com.doitflash.FreshApp): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found in C:\xampp\htdocs\android\fcms\amfphp\Services\AccessCheck.php on line 312
+[18-Apr-2014 20:21:50 Europe/Berlin] PHP Warning:  file_get_contents(http://www.myappera.com/pluginDirectory/compiler.php?method=userOff&internalID=air.com.doitflash.FreshApp): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\android\fcms\amfphp\Services\AccessCheck.php on line 312
+[18-Apr-2014 20:23:21 Europe/Berlin] PHP Warning:  file_get_contents(http://www.myappera.com/pluginDirectory/compiler.php?method=userOff&internalID=air.com.doitflash.FreshApp): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in C:\xampp\htdocs\android\fcms\amfphp\Services\AccessCheck.php on line 312
